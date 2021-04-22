@@ -5,7 +5,7 @@
 // recupere_données_creneau //creneau_joueur : à sécuriser la récup de chaque ligne de la requete et le tableau unserialise
 
 function coucou() {
-     $to="cshbb13@gmail.com";
+     $to="test@gmail.com";
      $subject="Bonjour";
      $message="Petit message en provenance du site";
      $headers = 'From: toulesjours@ladoumegue.fr'; 
